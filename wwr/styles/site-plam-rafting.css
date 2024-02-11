@@ -31,11 +31,109 @@ Fonts are separated by a & */
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 4em;
-  font-size: 18px;
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+}
+#logo_link {
+  text-decoration: none;
+  color: #fcfbfb;
   text-align: center;
+  padding-top: 5px;;
+}
+nav a {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding: 35px;
+}
+.book, .join {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding: 15px 30px;
+}
+.icon {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding-top: 10px;
+}
+.msg {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding: 35px;
+}
+.msg p {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding-bottom: 15px;
+}
+footer {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding: 25px 50px;
+}
+footer .social img {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding-top: 15px;
+}
+.home-title {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 10px;
+}
+.book, .join {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+}
+.rivers-card, .camping-card, .rapids-card {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin: 200px 0;
+}
+footer {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 200px;
+}
+.book, .join {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+main section img {
+  box-sizing: border-box;
 }
 img {
   display: block;
