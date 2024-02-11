@@ -86,54 +86,6 @@ footer .social img {
   text-decoration: none;
   color: #fcfbfb;
   text-align: center;
-  padding-top: 15px;
-}
-.home-title {
-  background-color: #d9c2a3;
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 15px 30px;
-  margin-top: 10px;
-}
-.book, .join {
-  background-color: #d9c2a3;
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 15px 30px;
-  margin-top: 50px;
-}
-.rivers-card, .camping-card, .rapids-card {
-  background-color: #d9c2a3;
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 15px 30px;
-  margin: 200px 0;
-}
-footer {
-  background-color: #d9c2a3;
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 15px 30px;
-  margin-top: 200px;
-}
-.book, .join {
-  background-color: #d9c2a3;
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 15px 30px;
-  margin-top: 50px;
-  border-radius: 5px;
-}
-.card-img {
-  border: 10px solid #d9c2a3;
-}
-main section img {
-  box-sizing: border-box;
 }
 img {
   display: block;
